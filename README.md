@@ -3,7 +3,7 @@
     <img align="right" alt="Download" height="75" src="https://raw.githubusercontent.com/gurrenm3/BTD-Mod-Helper/master/BloonsTD6%20Mod%20Helper/Resources/DownloadBtn.png">
 </a>
 
-<h1 align="center">Card Monkey</h1>
+<h1 align="center">Full Marine Tower</h1>
 This BTD6 mod makes the Marine a fully upgradeable tower with three theme-designed paths.
 
 * This is the first BTD6 mod I've ever made!
